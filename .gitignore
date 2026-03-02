@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+*.py[cod]
+*.bak
+*.old
+fix_ipv4.py
